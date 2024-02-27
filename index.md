@@ -23,9 +23,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: " Infobar title Infobar title Infobar title Infobar title"
+      subtitle: Subtitle Subtitle Subtitle
+      description: About a sentence worth of description here About a sentence worth
+        of description here About a sentence worth of description here
+      button: Button text Button text test
       url: /faq/
 ---
