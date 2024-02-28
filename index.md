@@ -34,7 +34,6 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: description description description description description description
-      button: Button Text
       url: /faq
       image: /images/image__1_.png
       alt: Image alt text
@@ -46,9 +45,16 @@ sections:
         Infopic description Infopic description Infopic description Infopic
         description
 
-        Infopic description Infopic description Infopic description Infopic description 
+        Infopic description Infopic description Infopic description Infopic description
       button: View more resources
       url: /faq
       image: /images/image__1_.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
