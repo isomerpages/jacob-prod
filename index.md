@@ -31,7 +31,7 @@ sections:
       url: /faq/
   - infopic:
       title: title title title
-      subtitle: " Add an image and text"
+      subtitle: Add an image and text
       id: infopic
       description: description description description description description description
       button: Button Text
@@ -42,9 +42,12 @@ sections:
       title: Title Title Title Title
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description Infopic description Infopic description Infopic
+      description: >-
+        Infopic description Infopic description Infopic description Infopic
         description
-      button: Button Text
+
+        Infopic description Infopic description Infopic description Infopic description 
+      button: View more resources
       url: /faq
       image: /images/image__1_.png
       alt: Image alt text
