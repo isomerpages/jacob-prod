@@ -30,14 +30,6 @@ sections:
       button: Button text Button text test
       url: /faq/
   - infopic:
-      title: title title title
-      subtitle: Add an image and text
-      id: infopic
-      description: description description description description description description
-      url: /faq
-      image: /images/image__1_.png
-      alt: Image alt text
-  - infopic:
       title: Title Title Title Title
       subtitle: Add an image and text
       id: infopic
@@ -47,6 +39,20 @@ sections:
 
         Infopic description Infopic description Infopic description Infopic description
       button: View more resources
+      url: /faq
+      image: /images/image__1_.png
+      alt: Image alt text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: title title title
+      subtitle: Add an image and text
+      id: infopic
+      description: description description description description description description
       url: /faq
       image: /images/image__1_.png
       alt: Image alt text
