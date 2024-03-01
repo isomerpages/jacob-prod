@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: test
@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: side
+      size: md
+      alignment: left
   - infobar:
       title: Infobar title Infobar title Infobar title Infobar title
       subtitle: Subtitle Subtitle Subtitle
