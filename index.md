@@ -59,6 +59,19 @@ sections:
       url: /faq
       image: /images/image__1_.png
       alt: Image alt text
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      url: /faq
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
   - infopic:
       title: Infopic
       subtitle: Add an image and text
