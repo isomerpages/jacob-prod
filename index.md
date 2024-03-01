@@ -25,40 +25,6 @@ sections:
       variant: side
       size: md
       alignment: left
-  - infobar:
-      title: Infobar title Infobar title Infobar title Infobar title
-      subtitle: Subtitle Subtitle Subtitle
-      description: About a sentence worth of description here About a sentence worth
-        of description here About a sentence worth of description here
-      button: Button text Button text test
-      url: /faq/
-  - infopic:
-      title: Title Title Title Title
-      subtitle: Add an image and text
-      id: infopic
-      description: >-
-        Infopic description Infopic description Infopic description Infopic
-        description
-
-        Infopic description Infopic description Infopic description Infopic description
-      button: View more resources
-      url: /faq
-      image: /images/image__1_.png
-      alt: Image alt text
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: title title title
-      subtitle: Add an image and text
-      id: infopic
-      description: description description description description description description
-      url: /faq
-      image: /images/image__1_.png
-      alt: Image alt text
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
@@ -66,6 +32,41 @@ sections:
       linktext: Learn more
       url: /faq
       infoboxes:
+        - title: Infobox
+          description: Infobox description
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      url: /faq
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      url: /faq
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      url: /faq
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
         - title: Infobox
           description: Infobox description
         - title: Infobox
