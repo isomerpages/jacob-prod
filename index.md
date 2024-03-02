@@ -88,4 +88,18 @@ sections:
           description: description
         - title: Title
           description: description
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Title
+          description: description
+        - title: Title
+          description: description
+        - title: title
+          description: description
+        - title: Title
+          description: description
 ---
