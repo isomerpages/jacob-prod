@@ -57,8 +57,8 @@ sections:
           description: Infobox description
         - title: Infobox Infobox Infobox Infobox Infobox Infobox I
           description: Infobox description
-        - title: "Infobox Infobox Infobox Infobox Infobox Infobox "
-          description: "aojdfla sdlkasjf laksjdf lasdkfjals dkfjasdkf "
+        - title: Infobox Infobox Infobox Infobox Infobox Infobox
+          description: aojdfla sdlkasjf laksjdf lasdkfjals dkfjasdkf
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
@@ -68,7 +68,7 @@ sections:
       infoboxes:
         - title: Infobox title Infobox title
           description: Infobox description
-        - title: "Infobox titleInfobox titleInfobox "
+        - title: Infobox titleInfobox titleInfobox
           description: Infobox descriptionInfobox descriptionInfobox descriptionInfobox
             description
         - title: Infobox title Infobox title Infobox title I
@@ -76,11 +76,16 @@ sections:
             descriptionInfobox descriptio
         - title: Infobox
           description: Infobox description
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Title
+          description: description
+        - title: Title
+          description: description
+        - title: Title
+          description: description
 ---
