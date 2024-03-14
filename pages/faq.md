@@ -6,9 +6,9 @@ variant: tiptap
 <h3><strong>FAQ</strong></h3>
 <ol>
 <li>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis
-ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida
-sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur
+<p>et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl
+eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit
+amet velit. Duis posuere mi lectus, molestie viverra metus consectetur
 quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse
 potenti. Orci varius natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla
